@@ -30,7 +30,7 @@ pipeline {
 
                 sh '''
 
-                echo "doing test stuff..
+                echo "doing test stuff.."
 
                 '''
 
