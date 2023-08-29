@@ -1,14 +1,6 @@
 pipeline {
 
-    agent {
-
-        node {
-
-            label 'jenkins-agent-goes-here'
-
-            }
-
-      }
+    agent any
 
     stages {
 
